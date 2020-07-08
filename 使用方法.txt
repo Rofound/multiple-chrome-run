@@ -1,0 +1,4 @@
+当前版本更新于2020-06-16 83.0.4103.106_chrome64_stable_windows_installer
+--------- 纯手工制作绿色版 --------- 
+直接双击打开当前目录下 GoogleChromePortable.exe 
+不影响当前已安装的chrome 版本
