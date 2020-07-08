@@ -18,9 +18,5 @@
 
 ## help
 
-<<<<<<< HEAD
 chrome 浏览器离线版下载地址 https://www.chromedownloads.net/chrome64win/
 google_chrome_portable https://www.cnblogs.com/xiangyuecn/p/10583788.html
-=======
-chrome 浏览器离线版下载地址 https://www.chromedownloads.net/chrome64win/
->>>>>>> e483ef9ce2063122760aedd649da079929a50454
